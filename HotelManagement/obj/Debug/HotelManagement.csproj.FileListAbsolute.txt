@@ -1,0 +1,13 @@
+c:\users\nigar\documents\visual studio 2015\Projects\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+c:\users\nigar\documents\visual studio 2015\Projects\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+c:\users\nigar\documents\visual studio 2015\Projects\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+c:\users\nigar\documents\visual studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Form1.resources
+c:\users\nigar\documents\visual studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+c:\users\nigar\documents\visual studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.Cache
+c:\users\nigar\documents\visual studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+c:\users\nigar\documents\visual studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\nigar\Documents\Visual Studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Form2.resources
+C:\Users\nigar\Documents\Visual Studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojResolveAssemblyReference.cache
+C:\Users\nigar\Documents\Visual Studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Form3.resources
+C:\Users\nigar\Documents\Visual Studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Form4.resources
+C:\Users\nigar\Documents\Visual Studio 2015\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Form5.resources
